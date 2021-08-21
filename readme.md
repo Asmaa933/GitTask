@@ -8,7 +8,7 @@ Requirments
 - [x] Create a repo on your Github account. 
 - [x] Add commits to your new project using best practices in commits/PRs. 
 - [x] Use ".gitignore", "Readme", "PR template" files to ease the project use for your team. 
-- [ ] Get two of your mates to approve your PRs.
+- [x] Get two of your mates to approve your PRs.
 
 ## Git Commands
 
