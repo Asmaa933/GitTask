@@ -1,8 +1,6 @@
----
-Ticket ID: "1"
-About: "Title"
-
----
+| Ticket ID     | 1 |
+| ---      | ---       |
+| About    | Title |
 
 ## Description
 
